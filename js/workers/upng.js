@@ -55,7 +55,7 @@ var upng = (function (exports) {
 
 	class UpngWorker extends BasicWorker {
 	    addLibs() {
-	        self.importScripts('/js/libs/upng.min.js');
+	        self.importScripts('./js/libs/upng.min.js');
 	    }
 	    onData(taskID, data) {
 	        self.postMessage(WorkerMessage.onComplete(taskID, UPNG.toRGBA8(UPNG.decode(data))[0]));
