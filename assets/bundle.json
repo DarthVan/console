@@ -1,0 +1,135 @@
+{
+	"version": "1.0",
+	"files": [
+		{
+			"id": "core ui",
+			"list": "Default",
+			"type": "spritesheet",
+			"file": "core/coreui.json"
+		},
+		{
+			"id": "starlight texture",
+			"list": "Starlight",
+			"type": "texture",
+			"file": "starlight/starlight.png",
+			"data": {
+				"w": 649,
+				"h": 1230
+			}
+		},
+		{
+			"id": "unity",
+			"list": "AppAssetList",
+			"type": "sound",
+			"file": "music/unity.json"
+		},
+		{
+			"id": "click",
+			"list": "AppAssetList",
+			"type": "sound",
+			"file": "sounds/click.mp3"
+		},
+		{
+			"id": "over",
+			"list": "AppAssetList",
+			"type": "sound",
+			"file": "sounds/over.mp3"
+		},
+		{
+			"id": "text",
+			"list": "AppAssetList",
+			"type": "text",
+			"file": "text/text.txt"
+		},
+		{
+			"id": "img1",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img1.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img2",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img2.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img3",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img3.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img4",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img4.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img5",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img5.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img6",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img6.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img7",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img7.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "img8",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/img8.png",
+			"data": {
+				"w": 1920,
+				"h": 1080
+			}
+		},
+		{
+			"id": "preloaders",
+			"list": "Default",
+			"type": "texture",
+			"file": "tx/preloaders.png",
+			"data": {
+				"w": 512,
+				"h": 512
+			}
+		}
+	]
+}
