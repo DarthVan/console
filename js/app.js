@@ -52,11 +52,11 @@ var app = (function (exports, core_js, pixi_js) {
 	        super({
 	            resolution: { width: 1920, height: 1080 },
 	            scale: { method: core_js.AppScale.float.bind(core_js.AppScale), adaptivity: 1.2 },
-	            title: "PIXI JS Test App",
+	            //title: "PIXI JS Test App",
 	            quality: core_js.AppQuality.BEST,
 	            language: core_js.AppLanguage.ENGLISH,
-	            color: 0xFFFF00,
-	            border: true
+	            color: 0x7777FF,
+	            border: false
 	        });
 	        this.addPreloader();
 	        this._datguiSample = new DatGUISample(this);
